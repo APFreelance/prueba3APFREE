@@ -611,13 +611,13 @@ footer:hover{
         font-size: 1.2em;
         font-weight: 300;
         line-height: 30px;
-        width: 60%;
+        width: 80%;
 
         animation: none;
     }
     #_head section div ul li{
         background-color: ;
-        margin: 0px 20%;
+        margin: 0px 10%;
         
         color: white;
         text-transform: capitalize;
