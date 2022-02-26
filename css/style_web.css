@@ -598,6 +598,7 @@ footer:hover{
         font-weight: 300;
         color: white;
         line-height: 30px;
+        text-aling: center;
         width: 100%;
     }
     #_head section div p span{
@@ -614,7 +615,7 @@ footer:hover{
     }
     #_head section div ul li{
         background-color: ;
-        margin-left: 8px;
+        margin-left: 0px 20%;
         
         color: white;
         text-aling: center;
