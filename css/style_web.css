@@ -586,7 +586,7 @@ footer:hover{
         background-color: red;
         overflow: visible;
 
-        display: block;
+        display: inline-block;
         margin: 0px 10%;
         margin-top: 50px;
         width: 80%;
@@ -594,7 +594,7 @@ footer:hover{
     }
     #_head section div p{
         font-family: open sans;
-        font-size: 1.5em;
+        font-size: 1.2em;
         font-weight: 300;
         color: white;
         line-height: 30px;
@@ -605,7 +605,7 @@ footer:hover{
         list-style: list;
         list-style-type: square;
         font-family: open sans;
-        font-size: 1.5em;
+        font-size: 1.2em;
         font-weight: 300;
         color: #f6a318;
         line-height: 30px;
@@ -615,6 +615,7 @@ footer:hover{
     }
     #_head section div ul li{
         background-color: yellow;
+        margin-left: 20px;
     }
     #_head section a{
         background-color: #f6a318;
