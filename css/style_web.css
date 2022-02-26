@@ -605,18 +605,18 @@ footer:hover{
         color: #f6a318;
     }
     #_head section div ul{
-        background-color: green;
+        background-color: ;
         list-style-type: square;
         font-family: open sans;
         font-size: 1.2em;
         font-weight: 300;
         line-height: 30px;
-        width: 75%;
+        width: 80%;
 
         animation: none;
     }
     #_head section div ul li{
-        margin: 0px 12.5%;
+        margin: 0px 10%;
         
         color: white;
         text-transform: capitalize;
