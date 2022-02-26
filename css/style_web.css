@@ -604,8 +604,6 @@ footer:hover{
         color: #f6a318;
     }
     #_head section div ul{
-        background-color: ;
-        list-style: ;
         list-style-type: square;
         font-family: open sans;
         font-size: 1.2em;
@@ -619,6 +617,7 @@ footer:hover{
         margin-left: 8px;
         
         color: white;
+        text-aling: center;
         text-transform: capitalize;
     }
     #_head section a{
@@ -960,7 +959,7 @@ footer:hover{
         bottom: 3%;
         transition: all 0.3s;
 
-        font-size: 40px;
+        font-size: 30px;
         text-decoration: none;
         line-height: 0px;
         color: #f6a318;
