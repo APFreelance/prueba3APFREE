@@ -609,13 +609,12 @@ footer:hover{
         font-weight: 300;
         color: #f6a318;
         line-height: 30px;
-        margin-left: 10px;
 
         animation: none;
     }
     #_head section div ul li{
         background-color: yellow;
-        margin-left: 20px;
+        margin-left: 10px;
     }
     #_head section a{
         background-color: #f6a318;
