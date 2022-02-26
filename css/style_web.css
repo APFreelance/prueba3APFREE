@@ -602,12 +602,12 @@ footer:hover{
     }
     #_head section div ul{
         background-color: ;
-        list-style: list;
-        list-style-type: square #f6a318;
+        list-style: ;
+        list-style-type: square;
         font-family: open sans;
         font-size: 1.2em;
         font-weight: 300;
-        color: white;
+        color: #f6a318;
         line-height: 30px;
         margin-left: 10px;
 
