@@ -601,17 +601,19 @@ footer:hover{
         width: 550px;
     }
     #_head section div ul{
-        list-style: none;
+        background-color: green;
+        list-style: list;
+        list-style-type: square;
         font-family: open sans;
-        font-size: 20px;
+        font-size: 2em;
         font-weight: 300;
         color: #f6a318;
         line-height: 30px;
         margin-left: 10px;
-
-        animation: textAnimated 6s infinite;
     }
-    #_head section div ul li{}
+    #_head section div ul li{
+        background-color: yellow;
+    }
     #_head section a{
         background-color: #f6a318;
         display: block;
@@ -629,20 +631,6 @@ footer:hover{
     #_head section a:hover{
         background-color: #27549c;
         color: white;
-    }
-    /*---------*/
-    @keyframes textAnimated{
-
-        0%{margin-top: 0px;}
-        15%{margin-top: 0px;}
-        20%{margin-top: -30px;}
-        45%{margin-top: -30px;}
-        50%{margin-top: -60px;}
-        75%{margin-top: -60px;}
-        80%{margin-top: -30px;}
-        90%{margin-top: -30px;}
-        95%{margin-top: -30px;}
-        100%{margin-top: 0px;}
     }
     /*---------*/
     #servicios{
