@@ -610,7 +610,6 @@ footer:hover{
         font-size: 1.2em;
         font-weight: 300;
         line-height: 30px;
-        text-align: center;
 
         animation: none;
     }
@@ -620,6 +619,7 @@ footer:hover{
         
         color: white;
         text-transform: capitalize;
+        text-align: center;
     }
     #_head section a{
         background-color: #f6a318;
