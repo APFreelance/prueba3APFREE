@@ -611,12 +611,11 @@ footer:hover{
         font-size: 1.2em;
         font-weight: 300;
         line-height: 30px;
-        width: 70%;
+        width: 80%;
 
         animation: none;
     }
     #_head section div ul li{
-        background-color: ;
         margin: 0px 15%;
         
         color: white;
