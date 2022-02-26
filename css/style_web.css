@@ -590,11 +590,11 @@ footer:hover{
         margin: 0px 10%;
         margin-top: 50px;
         width: 80%;
-        height: 38px;
+        height: auto;
     }
     #_head section div p{
         font-family: open sans;
-        font-size: 20px;
+        font-size: 1.5em;
         font-weight: 300;
         color: white;
         line-height: 30px;
@@ -605,7 +605,7 @@ footer:hover{
         list-style: list;
         list-style-type: square;
         font-family: open sans;
-        font-size: 2em;
+        font-size: 1.5em;
         font-weight: 300;
         color: #f6a318;
         line-height: 30px;
