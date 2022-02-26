@@ -614,7 +614,9 @@ footer:hover{
     #_head section div ul li{
         background-color: ;
         margin-left: 8px;
+        
         color: white;
+        text-transform: capitalize;
     }
     #_head section a{
         background-color: #f6a318;
