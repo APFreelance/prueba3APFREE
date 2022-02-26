@@ -598,7 +598,7 @@ footer:hover{
         font-weight: 300;
         color: white;
         line-height: 30px;
-        text-aling: center;
+        text-align: center;
         width: 100%;
     }
     #_head section div p span{
@@ -610,6 +610,7 @@ footer:hover{
         font-size: 1.2em;
         font-weight: 300;
         line-height: 30px;
+        text-align: center;
 
         animation: none;
     }
@@ -618,7 +619,6 @@ footer:hover{
         margin-left: 0px 20%;
         
         color: white;
-        text-aling: center;
         text-transform: capitalize;
     }
     #_head section a{
