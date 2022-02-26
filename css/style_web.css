@@ -615,11 +615,10 @@ footer:hover{
     }
     #_head section div ul li{
         background-color: ;
-        margin-left: 0px 20%;
+        margin: 0px 20%;
         
         color: white;
         text-transform: capitalize;
-        text-align: center;
     }
     #_head section a{
         background-color: #f6a318;
