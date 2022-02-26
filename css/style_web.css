@@ -586,7 +586,7 @@ footer:hover{
         background-color: red;
         overflow: visible;
 
-        display: ;
+        display: block;
         margin: 0px 10%;
         margin-top: 50px;
         width: 80%;
@@ -601,7 +601,7 @@ footer:hover{
         width: 100%;
     }
     #_head section div ul{
-        background-color: green;
+        background-color: ;
         list-style: list;
         list-style-type: square;
         font-family: open sans;
