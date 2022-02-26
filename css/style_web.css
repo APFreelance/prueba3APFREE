@@ -607,14 +607,13 @@ footer:hover{
         font-family: open sans;
         font-size: 1.2em;
         font-weight: 300;
-        color: #f6a318;
         line-height: 30px;
 
         animation: none;
     }
     #_head section div ul li{
         background-color: ;
-        margin-left: 5px;
+        margin-left: 8px;
         color: white;
     }
     #_head section a{
