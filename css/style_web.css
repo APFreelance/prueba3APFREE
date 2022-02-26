@@ -603,11 +603,11 @@ footer:hover{
     #_head section div ul{
         background-color: ;
         list-style: list;
-        list-style-type: square;
+        list-style-type: square #f6a318;
         font-family: open sans;
         font-size: 1.2em;
         font-weight: 300;
-        color: #f6a318;
+        color: white;
         line-height: 30px;
         margin-left: 10px;
 
