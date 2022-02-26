@@ -583,7 +583,8 @@ footer:hover{
         text-align: center;
     }
     #_head section div{
-        background-color: rose;
+        background-color: red;
+        overflow: visible;
 
         display: ;
         margin: 0px 10%;
@@ -609,6 +610,8 @@ footer:hover{
         color: #f6a318;
         line-height: 30px;
         margin-left: 10px;
+
+        animation: none;
     }
     #_head section div ul li{
         background-color: yellow;
