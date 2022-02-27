@@ -612,13 +612,12 @@ footer:hover{
         font-weight: 300;
         line-height: 30px;
         width: 80%;
+        margin-left: auto;
+        margin-right: auto;
 
         animation: none;
     }
-    #_head section div ul li{
-        margin-left: auto;
-        margin-right: auto;
-        
+    #_head section div ul li{ 
         color: white;
         text-transform: capitalize;
     }
