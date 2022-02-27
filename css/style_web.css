@@ -611,10 +611,7 @@ footer:hover{
         font-size: 1.2em;
         font-weight: 300;
         line-height: 30px;
-        width: 77%;
-        margin-left: auto;
-        margin-right: auto;
-        display: block;
+        width: 75%;
 
         animation: none;
     }
@@ -668,10 +665,14 @@ footer:hover{
     }
     #servicios article i{
         font-size: 70px;
-        text-aling: center;
+        text-aling: ;
         color: #27549c;
+        margin-left: auto;
+        margin-right: auto;
+        display: block;
 
-        margin: 25px  110px 40px 110px;
+        margin-bottom: 110px;
+        margin-top: 110px;
     }
     #servicios article h3{
         font-family: roboto;
