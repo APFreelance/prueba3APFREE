@@ -668,7 +668,7 @@ footer:hover{
         text-aling: ;
         color: #27549c;
     
-        display: block;
+        display: inline-block;
         margin: 25px  auto 40px auto;
     }
     #servicios article h3{
