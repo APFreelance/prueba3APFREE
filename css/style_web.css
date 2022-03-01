@@ -667,9 +667,8 @@ footer:hover{
         font-size: 70px;
         text-aling: ;
         color: #27549c;
-    
-        display: inline-block;
-        margin: 25px  auto 40px auto;
+
+        margin: 25px  20% 40px 20%;
     }
     #servicios article h3{
         font-family: roboto;
